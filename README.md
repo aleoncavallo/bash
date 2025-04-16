@@ -12,7 +12,7 @@
 9. Crear un enlace duro a `hola` llamado `saludo`
 > Ayuda: RTFM
 
-10. Editar el archivo `hola`, de forma que se pueda ejecutar con el comando `bash` e imprima `Hola` en la terminal. 
+10. Editar el archivo `hola`, escriba `echo` antes de `Hola` separado por un espacio, guarde y salga del editor, luego ejecute `bash hola` de forma que se pueda ejecutar con el comando `bash` e imprima `Hola` en la terminal. 
 11. Crear la siguiente estructura de archivos y directorios:
 ```
 user@user:~/tuia $ tree
@@ -58,7 +58,7 @@ user@user:~/tuia $ tree
 </div>
 
 13. Listar los directorios del sistema, hay algunos archivos que llamen la atención? `Ver ejercicio 8`
-> Ayuda: Recordá pasarle las opciones correcta a `ls` para que muestre más data.
+> Ayuda: Recordá pasarle las opciones correcta a `ls` para que muestre el listado largo con más información.
 14. Encontrar el kernel, dirigirnos hacia ese directorio e imprimir la ruta (`pwd`)
 15. Explorar el contenido del directorio `/etc/`, qué tipos de archivos se encuentran allí?
 16. Explorar el archivo `/etc/fstab`. Qué hace este archivo?
