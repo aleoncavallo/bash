@@ -59,8 +59,8 @@ user@user:~/tuia $ tree
 
 13. Listar los directorios del sistema, hay algunos archivos que llamen la atención? `Ver ejercicio 8`
 > Ayuda: Recordá pasarle las opciones correcta a `ls` para que muestre el listado largo con más información.
-14. Encontrar el kernel, dirigirnos hacia ese directorio e imprimir la ruta (`pwd`)
-15. Explorar el contenido del directorio `/etc/`, qué tipos de archivos se encuentran allí?
+14. Encontrar el kernel en /boot, dirigirnos hacia ese directorio y ver los archivos presentes.
+15. Explorar el contenido del directorio `/etc/`, ¿qué tipos de archivos se encuentran allí?
 16. Explorar el archivo `/etc/fstab`. Qué hace este archivo?
 17. Buscar los comandos que corremos en la terminal. Por ejemplo, buscar dónde está `ls`.
 > AYUDA: Son archivos **bin**arios (compilados) que están en algún directorio del sistema
