@@ -4,7 +4,7 @@
 2. Crear una carpeta/directorio `tuia` en el `home` del usuario
 3. Navegar/entrar al directorio `tuia`
 4. Crear los archivos vacíos `hola` y `chau`
-5. Editar con `vim` el archivo `hola` y escribir en él `"Hola"`
+5. Editar con `nano` o `vim` el archivo `hola` y escribir en él `"Hola"`
 6. Listar los archivos del directorio `tuia`
 7. Listar TODOS los archivos del directorio `tuia`
 > Ayuda: Ver la ayuda o el manual de `ls`
