@@ -12,7 +12,7 @@
 9. Crear un enlace duro a `hola` llamado `saludo`
 > Ayuda: RTFM
 
-10. Editar el archivo `hola`, de forma que se pueda ejecutar con el comando `bash` e imprima `Hola` en la terimal. 
+10. Editar el archivo `hola`, de forma que se pueda ejecutar con el comando `bash` e imprima `Hola` en la terminal. 
 11. Crear la siguiente estructura de archivos y directorios:
 ```
 user@user:~/tuia $ tree
@@ -26,8 +26,9 @@ user@user:~/tuia $ tree
 
 4 directories, 3 files 
 ```
-12. a. Borrar el directorio `dir.a` y todo su contenido.
-  b. Reescribir el ejercicio anterior intentando minimizar la cantidad de cambios de directorio (`cd`).
+12.
+    a. Borrar el directorio `dir.a` y todo su contenido.
+    b. Reescribir el ejercicio anterior intentando minimizar la cantidad de cambios de directorio (`cd`).
 
 <div style="
     background-color: #fff3cd; 
