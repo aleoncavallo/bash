@@ -27,8 +27,8 @@ user@user:~/tuia $ tree
 4 directories, 3 files 
 ```
 12.
-    a. Borrar el directorio `dir.a` y todo su contenido.
-    b. Reescribir el ejercicio anterior intentando minimizar la cantidad de cambios de directorio (`cd`).
+    * Borrar el directorio `dir.a` y todo su contenido.
+    * Reescribir el ejercicio anterior intentando minimizar la cantidad de cambios de directorio (`cd`).
 
 <div style="
     background-color: #fff3cd; 
